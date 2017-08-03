@@ -1,0 +1,1 @@
+print "Hello\n\tworld\n\t\tcan you\n\t\t\tprint this\n\t\t\t\twith single print"
